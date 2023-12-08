@@ -16,9 +16,13 @@ layout: default
 * * *
 ### My Credentials
 
-| Issuer        | Credential        | Year |
+| Issuer        | Credentials        | Year |
 |:-------------|:------------------|:------|
 | Oracle      | Oracle Cloud Infrastructure 2023 AI Foundations Associate (1Z0-1085-23) | 2023  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Oracle      | Oracle Cloud Infrastructure 2023 Foundations Associate (1Z0-1085-23)  | 2023  |
+| Google      | Google Advanced Data Analytics Professional Certificate | 2023  |
+| Google      | Google Business Intelligence Professional Certificate | 2023  |
+| Scrum Alliance      | Advanced Certified ScrumMaster® (ACSM®) | 2022  |
+| IBM      | IBM Applied AI Specialization | 2020  |
+| IBM      | IBM Data Analyst Specialization | 2020  |
+| IBM      | IBM Data Science Specialization | 2020  |
