@@ -2,13 +2,15 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[My LinkedIn Profile](https://www.linkedin.com/in/annabel-lee/).
 
-[Link to another page](./another-page.html).
+*   Analytical and logical individual who loves challenges and embraces critical thinking and problem-solving across different disciplines through data modelling and analytics
 
-There should be whitespace between paragraphs.
+*   Strong natural ability in taking complex datasets, identifying patterns and trends, and transforming those into meaningful and easily digestible visualizations and analysis to drive strategic business insights and actionable improvements
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+*   Effective stakeholder management and communication; able to help stakeholders and users to identify and solve problems using data
+
+*   Adaptable, versatile and passionate about lifelong learning and continual self-upgrades, especially in the space of process improvements.
 
 # Header 1
 
@@ -114,10 +116,3 @@ end
 <dd>Green</dd>
 </dl>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
