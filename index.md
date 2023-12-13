@@ -1,8 +1,13 @@
 ---
 layout: default
 ---
-### My Profile
-[My LinkedIn Profile](https://www.linkedin.com/in/annabel-lee/).
+### Profile
+[LinkedIn](https://www.linkedin.com/in/annabel-lee/).
+[GitHub](https://github.com/annabel-lee-x10/).
+[datascienceportfol.io](https://www.datascienceportfol.io/annabellee).
+
+
+Data Analytics & Visualization
 
 *   Accomplished and results-oriented Data Analyst with over 15 years of experience leveraging analytical expertise to drive business intelligence, optimize processes, and enhance decision-making. 
 
@@ -16,7 +21,7 @@ layout: default
 
 * * *
 
-### My Credentials
+### Credentials
 
 | Issuer        | Credentials        | Year |
 |:-------------|:------------------|:------|
