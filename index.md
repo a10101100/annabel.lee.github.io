@@ -3,6 +3,7 @@ layout: default
 ---
 ### Profile
 [LinkedIn](https://www.linkedin.com/in/annabel-lee/).
+[Medium](https://medium.com/@annabel.lee.x10).
 [GitHub](https://github.com/annabel-lee-x10/).
 [datascienceportfol.io](https://www.datascienceportfol.io/annabellee).
 
