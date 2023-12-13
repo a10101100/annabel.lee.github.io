@@ -3,7 +3,6 @@ layout: default
 ---
 ### My Profile
 [My LinkedIn Profile](https://www.linkedin.com/in/annabel-lee/).
-Data Analytics & Visualization
 
 *   Accomplished and results-oriented Data Analyst with over 15 years of experience leveraging analytical expertise to drive business intelligence, optimize processes, and enhance decision-making. 
 
